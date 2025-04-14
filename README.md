@@ -1,2 +1,3 @@
 # My-first-project---demo
-This is my first github repository
+This is my first github repository.
+author - Omar Faruk
